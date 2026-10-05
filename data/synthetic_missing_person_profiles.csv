@@ -1,0 +1,101 @@
+case_id,full_name,age,gender,last_known_city,state,last_seen_date,status,priority,description,image_filename
+MP-2026-0001,Aarav Sharma,12,Male,Hyderabad,Telangana,2026-01-05,Active,High,"Last seen near a public park wearing a blue jacket.",profile_0001.jpg
+MP-2026-0002,Meera Patel,26,Female,Pune,Maharashtra,2026-01-08,Active,Standard,"Reported missing after leaving her workplace.",profile_0002.jpg
+MP-2026-0003,Kabir Khan,9,Male,Bengaluru,Karnataka,2026-01-10,Found,High,"Located safely after a verified public sighting.",profile_0003.jpg
+MP-2026-0004,Ananya Reddy,17,Female,Hyderabad,Telangana,2026-01-12,Active,High,"Last seen near a bus terminal carrying a black backpack.",profile_0004.jpg
+MP-2026-0005,Vivaan Gupta,7,Male,Delhi,Delhi,2026-01-13,Active,High,"Separated from family during a crowded event.",profile_0005.jpg
+MP-2026-0006,Ishita Nair,31,Female,Kochi,Kerala,2026-01-15,Closed,Standard,"Case closed after contact with family was confirmed.",profile_0006.jpg
+MP-2026-0007,Reyansh Verma,14,Male,Jaipur,Rajasthan,2026-01-18,Active,High,"Last known location was a local sports ground.",profile_0007.jpg
+MP-2026-0008,Diya Iyer,22,Female,Chennai,Tamil Nadu,2026-01-20,Active,Standard,"Did not return from a scheduled commute.",profile_0008.jpg
+MP-2026-0009,Arjun Das,38,Male,Kolkata,West Bengal,2026-01-21,Found,Standard,"Found following coordination with local authorities.",profile_0009.jpg
+MP-2026-0010,Saanvi Joshi,11,Female,Nagpur,Maharashtra,2026-01-23,Active,High,"Last seen outside her school in the afternoon.",profile_0010.jpg
+MP-2026-0011,Aditya Rao,19,Male,Visakhapatnam,Andhra Pradesh,2026-01-25,Active,Standard,"Last seen at a railway station.",profile_0011.jpg
+MP-2026-0012,Kavya Menon,28,Female,Thiruvananthapuram,Kerala,2026-01-27,Closed,Standard,"Case closed after verified return home.",profile_0012.jpg
+MP-2026-0013,Rohan Singh,15,Male,Lucknow,Uttar Pradesh,2026-01-29,Active,High,"Reported missing after an evening tuition class.",profile_0013.jpg
+MP-2026-0014,Aditi Kulkarni,24,Female,Mumbai,Maharashtra,2026-02-01,Active,Standard,"Last seen near a metro station.",profile_0014.jpg
+MP-2026-0015,Neil Fernandes,10,Male,Goa,Goa,2026-02-02,Found,High,"Reunited with guardians after a community report.",profile_0015.jpg
+MP-2026-0016,Priya Sethi,35,Female,Chandigarh,Chandigarh,2026-02-04,Active,Standard,"Last known to be travelling toward the city centre.",profile_0016.jpg
+MP-2026-0017,Yash Malhotra,16,Male,Noida,Uttar Pradesh,2026-02-06,Active,High,"Last seen near a shopping complex.",profile_0017.jpg
+MP-2026-0018,Nandini Bose,13,Female,Guwahati,Assam,2026-02-08,Active,High,"Did not return from an after-school activity.",profile_0018.jpg
+MP-2026-0019,Manav Chawla,42,Male,Indore,Madhya Pradesh,2026-02-10,Closed,Standard,"Case closed after family contact was established.",profile_0019.jpg
+MP-2026-0020,Tara Bhat,8,Female,Srinagar,Jammu and Kashmir,2026-02-12,Active,High,"Last seen near the family residence.",profile_0020.jpg
+MP-2026-0021,Krish Bansal,20,Male,Ahmedabad,Gujarat,2026-02-14,Active,Standard,"Reported missing after leaving college.",profile_0021.jpg
+MP-2026-0022,Myra Kapoor,29,Female,Gurugram,Haryana,2026-02-16,Found,Standard,"Located after a verified transit report.",profile_0022.jpg
+MP-2026-0023,Rudra Mishra,6,Male,Bhubaneswar,Odisha,2026-02-18,Active,High,"Separated from guardians at a market.",profile_0023.jpg
+MP-2026-0024,Avni Saxena,18,Female,Kanpur,Uttar Pradesh,2026-02-20,Active,High,"Last seen outside a coaching centre.",profile_0024.jpg
+MP-2026-0025,Dev Arora,33,Male,Amritsar,Punjab,2026-02-22,Closed,Standard,"Case closed after verified communication.",profile_0025.jpg
+MP-2026-0026,Riya Thomas,14,Female,Kozhikode,Kerala,2026-02-24,Active,High,"Last seen near a school bus stop.",profile_0026.jpg
+MP-2026-0027,Om Prakash,27,Male,Patna,Bihar,2026-02-26,Active,Standard,"Last known location was a bus stand.",profile_0027.jpg
+MP-2026-0028,Alia Mirza,23,Female,Hyderabad,Telangana,2026-02-28,Found,Standard,"Found safely through family and police coordination.",profile_0028.jpg
+MP-2026-0029,Harsh Vardhan,12,Male,Ranchi,Jharkhand,2026-03-02,Active,High,"Last seen while returning from school.",profile_0029.jpg
+MP-2026-0030,Kiara Dutta,30,Female,Siliguri,West Bengal,2026-03-04,Active,Standard,"Reported missing during a journey.",profile_0030.jpg
+MP-2026-0031,Ayaan Ali,5,Male,Meerut,Uttar Pradesh,2026-03-06,Active,High,"Separated from family near a festival venue.",profile_0031.jpg
+MP-2026-0032,Shreya Pillai,21,Female,Coimbatore,Tamil Nadu,2026-03-08,Closed,Standard,"Case closed after a confirmed safe return.",profile_0032.jpg
+MP-2026-0033,Veer Shetty,16,Male,Mangaluru,Karnataka,2026-03-10,Active,High,"Last seen at a local playground.",profile_0033.jpg
+MP-2026-0034,Anika Roy,9,Female,Kolkata,West Bengal,2026-03-12,Active,High,"Last known location was a neighbourhood store.",profile_0034.jpg
+MP-2026-0035,Parth Jain,25,Male,Udaipur,Rajasthan,2026-03-14,Found,Standard,"Located after a validated sighting report.",profile_0035.jpg
+MP-2026-0036,Simran Kaur,34,Female,Ludhiana,Punjab,2026-03-16,Active,Standard,"Last seen leaving a hospital visit.",profile_0036.jpg
+MP-2026-0037,Atharv Deshmukh,13,Male,Nashik,Maharashtra,2026-03-18,Active,High,"Missing after an evening sports practice.",profile_0037.jpg
+MP-2026-0038,Ira Banerjee,19,Female,Kolkata,West Bengal,2026-03-20,Active,Standard,"Last seen near a university campus.",profile_0038.jpg
+MP-2026-0039,Samar Choudhary,40,Male,Jodhpur,Rajasthan,2026-03-22,Closed,Standard,"Case closed after identity and safety were verified.",profile_0039.jpg
+MP-2026-0040,Navya Ramesh,11,Female,Mysuru,Karnataka,2026-03-24,Active,High,"Last seen on the route home from school.",profile_0040.jpg
+MP-2026-0041,Vihaan Sood,17,Male,Shimla,Himachal Pradesh,2026-03-26,Active,High,"Last seen near an intercity bus stop.",profile_0041.jpg
+MP-2026-0042,Aarohi Ghosh,26,Female,Howrah,West Bengal,2026-03-28,Found,Standard,"Located after a coordinated search.",profile_0042.jpg
+MP-2026-0043,Ishaan Sinha,8,Male,Varanasi,Uttar Pradesh,2026-03-30,Active,High,"Separated from relatives at a transit area.",profile_0043.jpg
+MP-2026-0044,Mahi Yadav,15,Female,Faridabad,Haryana,2026-04-01,Active,High,"Last seen after school hours.",profile_0044.jpg
+MP-2026-0045,Arnav Mehta,32,Male,Surat,Gujarat,2026-04-03,Closed,Standard,"Case closed after a confirmed welfare check.",profile_0045.jpg
+MP-2026-0046,Nisha Paul,24,Female,Panaji,Goa,2026-04-05,Active,Standard,"Last known location was a beachside transit point.",profile_0046.jpg
+MP-2026-0047,Ritvik Agarwal,10,Male,Dehradun,Uttarakhand,2026-04-07,Active,High,"Last seen near a community playground.",profile_0047.jpg
+MP-2026-0048,Anvi Srivastava,28,Female,Prayagraj,Uttar Pradesh,2026-04-09,Found,Standard,"Found after a confirmed report from the public.",profile_0048.jpg
+MP-2026-0049,Daksh Gupta,14,Male,Delhi,Delhi,2026-04-11,Active,High,"Last seen during a commute from school.",profile_0049.jpg
+MP-2026-0050,Leela Namboodiri,37,Female,Kochi,Kerala,2026-04-13,Active,Standard,"Reported missing after leaving home.",profile_0050.jpg
+MP-2026-0051,Advait Kulkarni,6,Male,Pune,Maharashtra,2026-04-15,Active,High,"Separated from guardian at a public venue.",profile_0051.jpg
+MP-2026-0052,Trisha Saha,18,Female,Agartala,Tripura,2026-04-17,Closed,Standard,"Case closed after a verified safe return.",profile_0052.jpg
+MP-2026-0053,Arin Joseph,22,Male,Kottayam,Kerala,2026-04-19,Active,Standard,"Last seen near a railway platform.",profile_0053.jpg
+MP-2026-0054,Sia Mallick,12,Female,Cuttack,Odisha,2026-04-21,Active,High,"Last seen at an afternoon activity class.",profile_0054.jpg
+MP-2026-0055,Viraj Tiwari,35,Male,Bhopal,Madhya Pradesh,2026-04-23,Found,Standard,"Located following an interdepartmental alert.",profile_0055.jpg
+MP-2026-0056,Pihu Shah,9,Female,Vadodara,Gujarat,2026-04-25,Active,High,"Last known location was near the family shop.",profile_0056.jpg
+MP-2026-0057,Rahul Nigam,29,Male,Raipur,Chhattisgarh,2026-04-27,Active,Standard,"Reported missing after a routine trip.",profile_0057.jpg
+MP-2026-0058,Samaira Khan,16,Female,Aligarh,Uttar Pradesh,2026-04-29,Active,High,"Last seen near a coaching centre.",profile_0058.jpg
+MP-2026-0059,Ayush Pandey,11,Male,Gorakhpur,Uttar Pradesh,2026-05-01,Active,High,"Did not return after an outdoor activity.",profile_0059.jpg
+MP-2026-0060,Diya Chatterjee,27,Female,Durgapur,West Bengal,2026-05-03,Closed,Standard,"Case closed after family confirmed safe contact.",profile_0060.jpg
+MP-2026-0061,Agastya Iqbal,7,Male,Hyderabad,Telangana,2026-05-05,Active,High,"Separated from family in a busy shopping area.",profile_0061.jpg
+MP-2026-0062,Prisha Nanda,20,Female,Rourkela,Odisha,2026-05-07,Active,Standard,"Last seen leaving a college campus.",profile_0062.jpg
+MP-2026-0063,Kian Bedi,15,Male,Chandigarh,Chandigarh,2026-05-09,Found,High,"Reunited with family after a verified lead.",profile_0063.jpg
+MP-2026-0064,Nitya Suresh,33,Female,Chennai,Tamil Nadu,2026-05-11,Active,Standard,"Last known location was near a bus depot.",profile_0064.jpg
+MP-2026-0065,Arush Bhatt,10,Male,Jammu,Jammu and Kashmir,2026-05-13,Active,High,"Last seen outside the family residence.",profile_0065.jpg
+MP-2026-0066,Tanvi Goyal,17,Female,Rohini,Delhi,2026-05-15,Active,High,"Last seen after a school programme.",profile_0066.jpg
+MP-2026-0067,Shaurya Dey,24,Male,Kolkata,West Bengal,2026-05-17,Closed,Standard,"Case closed after authorities verified safety.",profile_0067.jpg
+MP-2026-0068,Avika Balan,13,Female,Thrissur,Kerala,2026-05-19,Active,High,"Last seen during travel from school.",profile_0068.jpg
+MP-2026-0069,Pranav Naik,30,Male,Hubballi,Karnataka,2026-05-21,Active,Standard,"Reported missing while travelling for work.",profile_0069.jpg
+MP-2026-0070,Rhea Oberoi,8,Female,Delhi,Delhi,2026-05-23,Found,High,"Located safely after an alert to nearby teams.",profile_0070.jpg
+MP-2026-0071,Karthik V,16,Male,Madurai,Tamil Nadu,2026-05-25,Active,High,"Last seen near a local sports facility.",profile_0071.jpg
+MP-2026-0072,Inaaya Farooq,25,Female,Lucknow,Uttar Pradesh,2026-05-27,Active,Standard,"Last known location was a city market.",profile_0072.jpg
+MP-2026-0073,Neel Borkar,9,Male,Navi Mumbai,Maharashtra,2026-05-29,Active,High,"Separated from family during a commute.",profile_0073.jpg
+MP-2026-0074,Aanya Suri,14,Female,Amritsar,Punjab,2026-05-31,Closed,High,"Case closed after a verified family reunion.",profile_0074.jpg
+MP-2026-0075,Rishi Sen,36,Male,Guwahati,Assam,2026-06-02,Active,Standard,"Reported missing after a routine outing.",profile_0075.jpg
+MP-2026-0076,Vaanya Pillai,11,Female,Bengaluru,Karnataka,2026-06-04,Active,High,"Last seen near a school gate.",profile_0076.jpg
+MP-2026-0077,Dhruv Bhatia,21,Male,Noida,Uttar Pradesh,2026-06-06,Found,Standard,"Located after a confirmed digital alert.",profile_0077.jpg
+MP-2026-0078,Aisha Contractor,29,Female,Mumbai,Maharashtra,2026-06-08,Active,Standard,"Last seen leaving an office district.",profile_0078.jpg
+MP-2026-0079,Nakul Soni,12,Male,Ajmer,Rajasthan,2026-06-10,Active,High,"Last known location was near a public library.",profile_0079.jpg
+MP-2026-0080,Mira Saldanha,18,Female,Mangaluru,Karnataka,2026-06-12,Active,High,"Did not return from a scheduled class.",profile_0080.jpg
+MP-2026-0081,Armaan Qureshi,39,Male,Patna,Bihar,2026-06-14,Closed,Standard,"Case closed after verified location and family contact.",profile_0081.jpg
+MP-2026-0082,Esha Rawat,7,Female,Haridwar,Uttarakhand,2026-06-16,Active,High,"Separated from guardians near a pilgrimage site.",profile_0082.jpg
+MP-2026-0083,Kushal Rane,23,Male,Kolhapur,Maharashtra,2026-06-18,Active,Standard,"Last seen near an intercity transport hub.",profile_0083.jpg
+MP-2026-0084,Navika Bedi,15,Female,Panchkula,Haryana,2026-06-20,Found,High,"Found safely after an investigation lead.",profile_0084.jpg
+MP-2026-0085,Tanishq Lal,10,Male,Delhi,Delhi,2026-06-22,Active,High,"Last seen outside a neighbourhood store.",profile_0085.jpg
+MP-2026-0086,Reva Mohan,32,Female,Thane,Maharashtra,2026-06-24,Active,Standard,"Reported missing after an evening commute.",profile_0086.jpg
+MP-2026-0087,Tejas Kulkarni,17,Male,Aurangabad,Maharashtra,2026-06-26,Active,High,"Last seen near a college sports event.",profile_0087.jpg
+MP-2026-0088,Anushka Bansal,13,Female,Jaipur,Rajasthan,2026-06-28,Closed,High,"Case closed following a verified safe return.",profile_0088.jpg
+MP-2026-0089,Nivaan Rathi,6,Male,Hisar,Haryana,2026-06-30,Active,High,"Separated from family at a local fair.",profile_0089.jpg
+MP-2026-0090,Samyukta Das,26,Female,Bhubaneswar,Odisha,2026-07-02,Active,Standard,"Last known location was a city bus route.",profile_0090.jpg
+MP-2026-0091,Farhan Ansari,14,Male,Kanpur,Uttar Pradesh,2026-07-04,Found,High,"Located through a verified community submission.",profile_0091.jpg
+MP-2026-0092,Anvi Prasad,9,Female,Ranchi,Jharkhand,2026-07-06,Active,High,"Last seen after school near a crossing.",profile_0092.jpg
+MP-2026-0093,Manan Batra,28,Male,Gurugram,Haryana,2026-07-08,Active,Standard,"Reported missing after travel plans changed.",profile_0093.jpg
+MP-2026-0094,Sneha Iqbal,19,Female,Hyderabad,Telangana,2026-07-10,Closed,Standard,"Case closed after a confirmed welfare check.",profile_0094.jpg
+MP-2026-0095,Arjit Paul,11,Male,Kolkata,West Bengal,2026-07-12,Active,High,"Last seen near a school transport point.",profile_0095.jpg
+MP-2026-0096,Kyra Arora,16,Female,Delhi,Delhi,2026-07-14,Active,High,"Last seen at a city transit station.",profile_0096.jpg
+MP-2026-0097,Ivaan Prabhu,34,Male,Chennai,Tamil Nadu,2026-07-16,Found,Standard,"Located through coordination with local teams.",profile_0097.jpg
+MP-2026-0098,Aarna Sinha,8,Female,Patna,Bihar,2026-07-18,Active,High,"Separated from her guardian near a market.",profile_0098.jpg
+MP-2026-0099,Rudransh Bose,20,Male,Guwahati,Assam,2026-07-20,Active,Standard,"Last known location was near a railway entrance.",profile_0099.jpg
+MP-2026-0100,Veda Krishnan,27,Female,Thiruvananthapuram,Kerala,2026-07-22,Closed,Standard,"Case closed after a verified safe return home.",profile_0100.jpg
