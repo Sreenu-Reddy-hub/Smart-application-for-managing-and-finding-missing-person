@@ -1,0 +1,23 @@
+{
+  "benchmark": "Olivetti Faces held-out identification benchmark",
+  "purpose": "research/demo only; not a missing-person performance claim",
+  "model": "PCA (80 components) + 1-nearest-neighbour classifier",
+  "split": {
+    "method": "stratified 50/50 train-test split",
+    "random_seed": 2026,
+    "enrolled_images": 200,
+    "held_out_test_images": 200,
+    "identities": 40
+  },
+  "identification": {
+    "correct_matches": 169,
+    "total_test_images": 200,
+    "top_1_accuracy_percent": 84.5
+  },
+  "timing_milliseconds": {
+    "model_fit": 202.736,
+    "average_per_image": 4.903,
+    "median_per_image": 4.712,
+    "p95_per_image": 5.927
+  }
+}
